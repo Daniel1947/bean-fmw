@@ -1,4 +1,4 @@
-package peanut.khaki.common;
+package bean.common;
 
 public class Constant {
 	public static final String SERVER_IP = "http://180.153.88.107/lvbaobao";

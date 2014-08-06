@@ -1,4 +1,4 @@
-package peanut.khaki;
+package bean.ui;
 
 import android.os.Bundle;
 import android.os.Handler;
